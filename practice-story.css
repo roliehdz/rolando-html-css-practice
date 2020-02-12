@@ -31,12 +31,13 @@ h2{
 }
 
 h4{
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin: 14px 0 8px 0;
 }
 
 .byline{
   font-family: Arial;
+  font-size: .95rem;
 }
 .byline span{
   font-style: italic;
@@ -46,6 +47,8 @@ h4{
   font-family: Arial;
   margin-top: 2px;
   margin-bottom: 20px;
+  font-size: .9rem;
+  text-align: right;
 }
 
 blockquote{
@@ -58,7 +61,7 @@ ol {
   list-style-position: inside;
 }
 
-#comment-notes{
+#comment-notes {
   background-color: #CCC;
   padding: 12px 12px
 }
